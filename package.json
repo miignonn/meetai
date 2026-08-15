@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
+    "@dicebear/collection": "^7.2.0",
+    "@dicebear/core": "^7.2.0",
     "@hookform/resolvers": "^5.4.0",
     "@neondatabase/serverless": "^1.1.0",
     "@radix-ui/react-label": "^2.1.12",
@@ -53,5 +55,8 @@
     "tailwindcss": "^4",
     "tsx": "^4.23.1",
     "typescript": "^5"
+  },
+  "optionalDependencies": {
+    "@resvg/resvg-js-darwin-arm64": "^2.6.2"
   }
 }
